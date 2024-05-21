@@ -8,5 +8,5 @@ It contains essential documents, photos, and CAD ([SolidWorks](https://www.solid
 
 <br>
 <p align="center">
-<img width="300" alt="3D Assembly of the robot" src="https://github.com/franrobots/Rescue-Maze-Fran-Robot-s/assets/96209646/c2acccb5-8b6a-493b-8f9d-11f5465f7856" /p>
+<img width="300" alt="3D Assembly of the robot" src="https://github.com/franrobots/RescueMaze_FranRobots_WorldWide/assets/145154175/77995199-1936-46a2-9ed7-af51d90d8f0c" /p>
 <p align="center">  <strong> 3D Assembly of the Robot </strong> </p>
