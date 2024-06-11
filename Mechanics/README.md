@@ -5,6 +5,7 @@ It contains essential documents, photos, and CAD ([SolidWorks](https://www.solid
 <br>
 
 **Authors:**
+* [Arthur Mendes](https://www.instagram.com/arthurmlopezzz/) <br>
 * [Fernanda Lima](https://www.instagram.com/ferdilima_/) <br>
 * [Guilherme Canteiro](https://www.instagram.com/guilhermebcanteiro/) <br>
 <br>
