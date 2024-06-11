@@ -12,5 +12,5 @@ This repository is dedicated to organizing and centralizing documents, pictures,
 
 
 <p align="center">
-<img width="300" alt="3D Assembly of the robot" src="https://github.com/franrobots/RescueMaze_FranRobots_WorldWide/assets/145154175/51367900-fc77-49f5-bf82-06bb1fde3b26" /p>
+<img width="300" alt="TeamMembers" src="https://github.com/franrobots/RescueMaze_FranRobots_WorldWide/assets/145154175/51367900-fc77-49f5-bf82-06bb1fde3b26" /p>
 <p align="center">  <strong> Team Members </strong> </p>
