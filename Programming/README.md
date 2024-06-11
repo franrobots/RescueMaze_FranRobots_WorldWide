@@ -5,7 +5,7 @@
 Included here are the documents, photos, and the code used in the robot. <br>
 <br>
 
-**Author:**
+**Authors:**
 * [Eduardo Righetto](https://www.instagram.com/eduardorimazaro/) <br>
 <br>
 
